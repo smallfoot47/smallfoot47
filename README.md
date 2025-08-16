@@ -1,4 +1,4 @@
-## Meet Smallfoot47 AKA _Vivek Radhakrishnan_
+# Meet ✨Smallfoot✨:
 
 <!--
 **smallfoot47/smallfoot47** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🎓 **Grad Student** at **NYU**, Cybersecurity
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bitcount&pause=0&color=4DC377&center=true&vCenter=true&width=800&lines=Software%20Engineer;Security%20Expert;Student)
+</div>
+
 ### This is WIP, maintain distance
