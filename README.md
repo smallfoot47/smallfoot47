@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bitcount&pause=0&color=4DC377&center=true&vCenter=true&width=800&lines=Software%20Engineer;Security%20Expert;Student)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bitcount&pause=0&color=4DC377&center=true&vCenter=true&width=800&lines=Software%20Engineer;Security%20Expert;Student;I%20Use%20Arch%20btw)
 </div>
 
 ### This is WIP, maintain distance
