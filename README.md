@@ -28,7 +28,7 @@ Here are some ideas to get you started:
   
   <img src="https://github-readme-streak-stats.herokuapp.com?user=smallfoot47&theme=transparent&hide_border=true&card_width=817" alt="GitHub.activity"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallfoot47&layout=compact&theme=transparent&card_width=817" alt="Language.distribution"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smallfoot47&layout=compact&theme=transparent&card_width=817&border_color=766C62" alt="Language.distribution"/>
 </div>
 
 # Con
