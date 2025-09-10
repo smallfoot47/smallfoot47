@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  <h1>Meet Smallfoot</h1>
   <img src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif"/>
   
   ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bitcount&pause=0&color=4DC377&center=true&vCenter=true&width=800&lines=Software%20Engineer;Security%20Expert;Student;I%20Use%20Arch%20btw)
@@ -22,6 +23,7 @@ Here are some ideas to get you started:
   <!-- img src="hex-stats.png" alt="hex.stats"/> -->
 </div>
 <br><br><br>
+<h1>Contributions</h1>
 <img src="https://static1.textcraft.net/data1/1/b/1b3f773877dea7cd72e9234f2ab8db630bccf129da39a3ee5e6b4b0d3255bfef95601890afd80709da39a3ee5e6b4b0d3255bfef95601890afd80709378f9c07bca743bf5b4bc1cf4099b8af.png"/>
 <div align="center">
 
