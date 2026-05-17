@@ -15,6 +15,9 @@ LANG_LOGOS = {
     "Haskell": "haskell", "Elixir": "elixir", "Zig": "zig",
 }
 
+# Always shown even if not in the top N by byte count
+PINNED_LANGS = ["Kotlin"]
+
 REPO_EMOJI = {
     "Python": "🐍", "JavaScript": "🌐", "TypeScript": "🌐",
     "C": "⚙️", "C++": "⚙️", "Rust": "🦀", "Shell": "💻",
@@ -54,8 +57,12 @@ def fetch_languages(repos):
 
 def build_language_badges(lang_totals, top_n=8):
     sorted_langs = sorted(lang_totals.items(), key=lambda x: x[1], reverse=True)[:top_n]
+    shown = [lang for lang, _ in sorted_langs]
+    for lang in PINNED_LANGS:
+        if lang not in shown:
+            shown.append(lang)
     badges = []
-    for lang, _ in sorted_langs:
+    for lang in shown:
         logo = LANG_LOGOS.get(lang, lang.lower().replace("+", "p").replace(" ", "").replace("#", "sharp"))
         encoded_name = lang.replace("+", "%2B").replace(" ", "_")
         badges.append(
@@ -67,7 +74,7 @@ def build_language_badges(lang_totals, top_n=8):
 def build_projects_table(repos, top_n=3):
     candidates = sorted(
         [r for r in repos if not r.get("fork") and r.get("description")],
-        key=lambda x: (x.get("stargazers_count", 0), x.get("pushed_at", "")),
+        key=lambda x: x.get("stargazers_count", 0),
         reverse=True,
     )[:top_n]
 
