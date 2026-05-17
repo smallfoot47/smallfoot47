@@ -34,6 +34,7 @@
 ![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4DC377)
 ![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=4DC377)
 ![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=4DC377)
+![Kotlin](https://img.shields.io/badge/Kotlin-0d1117?style=for-the-badge&logo=kotlin&logoColor=4DC377)
 <!-- LANGUAGES_END -->
 
 **Security & Tools**
@@ -65,9 +66,9 @@
 <!-- PROJECTS_START -->
 | Project | Description | Stack |
 |---|---|---|
-| [🔒 portfolio](https://github.com/smallfoot47/portfolio) | Source code of my portfolio. Feel free to use it, we love open source around the… | `HTML` |
 | [⚙️ AmetureNumMethods](https://github.com/smallfoot47/AmetureNumMethods) | An iterative collection of solutions to problems I personally want to catalog. T… | `C++` |
-| [🐍 smallfoot47](https://github.com/smallfoot47/smallfoot47) | Touchdown! ~This is my landing page, hope you had a safe surf across the web!~ | `Python` |
+| [🔒 portfolio](https://github.com/smallfoot47/portfolio) | Source code of my portfolio. Feel free to use it, we love open source around the… | `HTML` |
+| [⚙️ Almond](https://github.com/smallfoot47/Almond) | Learning the Hazel Engine on my own | `C++` |
 <!-- PROJECTS_END -->
 
 ---
