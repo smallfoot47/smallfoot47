@@ -10,7 +10,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║  > whoami                                                    ║
-║  smallfoot47 — engineer by day, security nerd by night       ║
+║  smallfoot47 — engineer by day, [REDACTED] by night          ║
 ║  building tools, breaking things (ethically), learning more  ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
