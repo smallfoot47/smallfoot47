@@ -26,6 +26,14 @@
 **Languages**
 
 <!-- LANGUAGES_START -->
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=4DC377)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-0d1117?style=for-the-badge&logo=jupyternotebook&logoColor=4DC377)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=4DC377)
+![Go](https://img.shields.io/badge/Go-0d1117?style=for-the-badge&logo=go&logoColor=4DC377)
+![C++](https://img.shields.io/badge/C%2B%2B-0d1117?style=for-the-badge&logo=cplusplus&logoColor=4DC377)
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=4DC377)
+![HTML](https://img.shields.io/badge/HTML-0d1117?style=for-the-badge&logo=html5&logoColor=4DC377)
+![Lua](https://img.shields.io/badge/Lua-0d1117?style=for-the-badge&logo=lua&logoColor=4DC377)
 <!-- LANGUAGES_END -->
 
 **Security & Tools**
@@ -55,6 +63,11 @@
 ```
 
 <!-- PROJECTS_START -->
+| Project | Description | Stack |
+|---|---|---|
+| [🔒 portfolio](https://github.com/smallfoot47/portfolio) | Source code of my portfolio. Feel free to use it, we love open source around the… | `HTML` |
+| [⚙️ AmetureNumMethods](https://github.com/smallfoot47/AmetureNumMethods) | An iterative collection of solutions to problems I personally want to catalog. T… | `C++` |
+| [🐍 smallfoot47](https://github.com/smallfoot47/smallfoot47) | Touchdown! ~This is my landing page, hope you had a safe surf across the web!~ | `Python` |
 <!-- PROJECTS_END -->
 
 ---
