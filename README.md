@@ -97,8 +97,8 @@
 
 [![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=4DC377)](mailto:smallfoot@osiris.cyber.nyu.edu)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=4DC377)](https://linkedin.com/in/vivekrk1)
-<!--[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=4DC377)](https://twitter.com/yourhandle)
-[![CTFtime](https://img.shields.io/badge/CTFtime-0d1117?style=for-the-badge&logo=hackthebox&logoColor=4DC377)](https://ctftime.org/user/yourprofile)
+[![Twitter](https://img.shields.io/badge/Twitter-0d1117?style=for-the-badge&logo=x&logoColor=4DC377)](https://twitter.com/smallfoot47)
+<!--[![CTFtime](https://img.shields.io/badge/CTFtime-0d1117?style=for-the-badge&logo=hackthebox&logoColor=4DC377)](https://ctftime.org/user/yourprofile)
 -->
 </div>
 
